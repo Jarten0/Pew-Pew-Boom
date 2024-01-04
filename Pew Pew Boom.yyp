@@ -35,9 +35,15 @@
   },
   "resources": [
     {"id":{"name":"enemy1Bullet","path":"sprites/enemy1Bullet/enemy1Bullet.yy",},},
+    {"id":{"name":"hit1E","path":"sprites/hit1E/hit1E.yy",},},
+    {"id":{"name":"hit1B","path":"sprites/hit1B/hit1B.yy",},},
+    {"id":{"name":"hit1D","path":"sprites/hit1D/hit1D.yy",},},
+    {"id":{"name":"hit1F","path":"sprites/hit1F/hit1F.yy",},},
     {"id":{"name":"playerBullet","path":"sprites/playerBullet/playerBullet.yy",},},
     {"id":{"name":"playerSprite","path":"sprites/playerSprite/playerSprite.yy",},},
     {"id":{"name":"enemy1Sprite","path":"sprites/enemy1Sprite/enemy1Sprite.yy",},},
+    {"id":{"name":"hit1A","path":"sprites/hit1A/hit1A.yy",},},
+    {"id":{"name":"hit1C","path":"sprites/hit1C/hit1C.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
